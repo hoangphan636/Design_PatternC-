@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\bin\Debug\net6.0\Yield_trong_C#.exe
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\bin\Debug\net6.0\Yield_trong_C#.deps.json
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\bin\Debug\net6.0\Yield_trong_C#.runtimeconfig.json
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\bin\Debug\net6.0\Yield_trong_C#.dll
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\bin\Debug\net6.0\Yield_trong_C#.pdb
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.AssemblyInfo.cs
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.dll
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\refint\Yield_trong_C#.dll
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.pdb
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\Yield_trong_C#.genruntimeconfig.cache
+C:\Users\hoang\source\repos\Design_Pattern\Yield_trong_C#\obj\Debug\net6.0\ref\Yield_trong_C#.dll

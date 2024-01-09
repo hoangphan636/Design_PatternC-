@@ -1,0 +1,14 @@
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\bin\Debug\net6.0\Design_Pattern_Factory.exe
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\bin\Debug\net6.0\Design_Pattern_Factory.deps.json
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\bin\Debug\net6.0\Design_Pattern_Factory.runtimeconfig.json
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\bin\Debug\net6.0\Design_Pattern_Factory.dll
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\bin\Debug\net6.0\Design_Pattern_Factory.pdb
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.AssemblyInfo.cs
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.dll
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\refint\Design_Pattern_Factory.dll
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.pdb
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\Design_Pattern_Factory.genruntimeconfig.cache
+C:\Users\hoang\source\repos\test1\Design_Pattern_Factory\obj\Debug\net6.0\ref\Design_Pattern_Factory.dll

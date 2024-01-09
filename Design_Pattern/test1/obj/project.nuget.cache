@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GfaIGxvugY/rJfr+zhQklay6AzxybLQFJr0JnQt74T7fHgDNvXiaqMVCgv3bzzTcTYSZvxd9Z/neBp9HU66VrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoang\\source\\repos\\Design_Pattern\\test1\\test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
